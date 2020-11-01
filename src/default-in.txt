@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://rm-bp1hg0901ny4f8xogso.mysql.rds.aliyuncs.com:3306/myrubbish?useSSL=false
+username=wfj
+password=123456789
